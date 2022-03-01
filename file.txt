@@ -1,0 +1,11 @@
+5
+
+3 100 89 1 5 5 Avanue Five
+
+2 75 70 1 5 6 Avanue Five
+
+1 55 45 1 8 9 Target Seven
+
+1 60 55 1 9 9 Target Seven
+
+4 120 100 1 4 4 Target Seven
