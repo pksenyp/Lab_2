@@ -8,7 +8,6 @@ Inside the application:
 * create an array of some (5-10) structures; 
 * populate the structures element by element, using keyboard input or a text file; 
 * print the contents of the array on the screen; 
-* implement in the program the additional functions specified in the lab assignment.
 
 ### Variant 2 
 
